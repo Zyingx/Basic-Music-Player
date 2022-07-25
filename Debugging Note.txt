@@ -1,0 +1,5 @@
+Improving the GUI
+Reduce the Pause n Unpause thing to Play
+Add loop and repeat
+Continuing the music
+
